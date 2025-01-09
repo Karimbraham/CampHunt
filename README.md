@@ -42,13 +42,6 @@ Discover the perfect campsite and share your adventures with CampHunt!
    http://localhost:3000
    ```
 
-## Tech Stack 
-
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Media Storage:** Cloudinary
-- **Maps:** Mapbox
-
 ## Future Improvements 
 
 - Add user profiles and saved campsite lists.
