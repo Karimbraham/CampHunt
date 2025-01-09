@@ -1,4 +1,5 @@
-# CampHunt 🏕️ Discover the perfect campsite and share your adventures with CampHunt!
+# CampHunt 🏕️ 
+Discover the perfect campsite and share your adventures with CampHunt!
 
 **CampHunt** is a web application for camping enthusiasts to explore, create, and review campsites around the world. The app allows users to share their favorite camping spots with images, discover new ones, and leave reviews for others.
 
